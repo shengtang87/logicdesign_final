@@ -1,0 +1,16 @@
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|       Launch Clock       |      Capture Clock       |                                                 Pin                                                      |
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|              sys_clk_pin |              sys_clk_pin |                                                                            noteGen_00/clk_cnt_2_reg[21]/D|
+|              sys_clk_pin |              sys_clk_pin |                                                                            noteGen_00/clk_cnt_2_reg[17]/D|
+|              sys_clk_pin |              sys_clk_pin |                                                                            noteGen_00/clk_cnt_2_reg[18]/D|
+|              sys_clk_pin |              sys_clk_pin |                                                                            noteGen_00/clk_cnt_2_reg[13]/D|
+|              sys_clk_pin |              sys_clk_pin |                                                                            noteGen_00/clk_cnt_2_reg[14]/D|
+|              sys_clk_pin |              sys_clk_pin |                                                                             noteGen_00/clk_cnt_2_reg[9]/D|
+|              sys_clk_pin |              sys_clk_pin |                                                                            noteGen_00/clk_cnt_2_reg[10]/D|
+|              sys_clk_pin |              sys_clk_pin |                                                                             noteGen_00/clk_cnt_2_reg[5]/D|
+|              sys_clk_pin |              sys_clk_pin |                                                                             noteGen_00/clk_cnt_2_reg[6]/D|
+|              sys_clk_pin |              sys_clk_pin |                                                                             noteGen_00/clk_cnt_2_reg[2]/D|
+|              sys_clk_pin |              sys_clk_pin |                                                                             noteGen_00/clk_cnt_2_reg[1]/D|
+|              sys_clk_pin |              sys_clk_pin |                                                                                    noteGen_00/c_clk_reg/D|
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
